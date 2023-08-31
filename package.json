@@ -2,7 +2,10 @@
   "name": "horizon-muted",
   "displayName": "Horizon Muted",
   "description": "A modified fork of Horizon Theme, featuring a muted color palette.",
-  "version": "0.0.1",
+  "publisher": "ricafolio",
+  "repository": "https://github.com/ricafolio/horizon-muted",
+  "icon": " ./assets/icon.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
