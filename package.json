@@ -1,0 +1,21 @@
+{
+  "name": "horizon-muted",
+  "displayName": "Horizon Muted",
+  "description": "A modified fork of Horizon Theme, featuring a muted color palette.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Horizon Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Horizon Muted-color-theme.json"
+      }
+    ]
+  }
+}
